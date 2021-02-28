@@ -1,0 +1,9 @@
+// 2ND QUESTION: The scope :: is included in the namespace std
+// This scope allows the definition of a function 
+// Outside of the Class itself as if the definition of the function
+// was in the class.
+
+
+//1ST QUESTION: When adding the command namespace std,
+//we can see that this namespace contain the string class,
+// As well as the basic functionalities such as cout and cin
